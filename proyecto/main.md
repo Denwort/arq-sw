@@ -1,4 +1,4 @@
-# Fitia Barato (hasta tener un mejor nombre)
+# HabiTrack
 
 ## Módulo de Registro de Hábitos
 Este módulo permite a los usuarios crear, editar y eliminar hábitos. Los usuarios pueden configurar la frecuencia (diaria, semanal, mensual) y establecer metas para cada hábito.
