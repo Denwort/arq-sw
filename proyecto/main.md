@@ -14,3 +14,6 @@ Este módulo envía recordatorios para realizar hábitos y permite configurar no
 
 ## Módulo de Motivación
 Este módulo ofrece recompensas por alcanzar metas, como badges y niveles, y proporciona mensajes motivacionales o citas inspiradoras para mantener el ánimo alto.
+
+## Módulo de Integración Social:
+Este módulo permite conectar con amigos para seguirse mutuamente y motivarse y compartir logros en redes sociales.
