@@ -6,4 +6,4 @@ Somos grupo 6
 
 1. [Integrantes del grupo](integrantes/integrantes.md)
 
-2. Otra sección
+2. [Otra sección](proyecto/main.md)
