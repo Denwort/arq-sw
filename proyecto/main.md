@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Es una innovadora app movil que permite realizar seguimiento hábitos con el fin de ayudar a los usuarios a adoptar nuevos habitos, mejorarlos y a alcanzar sus metas.
+Este proyecto es una innovadora aplicación móvil diseñada para ayudarte a identificar, mejorar y realizar un seguimiento de tus hábitos a través de módulos interactivos. Con su asistencia, podrás desarrollar y mantener rutinas saludables, adoptar nuevos hábitos y alcanzar tus metas personales de manera más eficiente.
 
 ### Módulo de Registro de Hábitos
 Este módulo permite a los usuarios crear, editar y eliminar hábitos. Los usuarios pueden configurar la frecuencia (diaria, semanal, mensual) y establecer metas para cada hábito.
