@@ -1,5 +1,7 @@
 # Chicha2912
 
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnphdG5rdnZqZWt3b3Zucnh1Z2kxb2dxcmp2Zm0zNjY1ZGwxc2hjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.webp)
+
 ## Preguntas
 
 * Piero Rozas - Ingenieria de Sistema
