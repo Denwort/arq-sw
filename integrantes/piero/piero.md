@@ -1,6 +1,6 @@
 # Chicha2912
 
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnphdG5rdnZqZWt3b3Zucnh1Z2kxb2dxcmp2Zm0zNjY1ZGwxc2hjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.webp)
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwcGNhNmM0eTVoZDBmamdzMnEybmJ5N2NhOGttaWI4ZXBkdzEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
 
 ## Preguntas
 
@@ -9,3 +9,7 @@
 * Conozco flutter, kotlin, node, next, react, tailwindcss, bootstrap, entre otras :p
 * Realizar el trabajo de una manera efectiva y rapida para no correr durante el curso
 * Ojala en 10 años estar trabajando en una empresa grande manejando distintos proyectos de desarrollo de software
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRzcmI5eXBpZTdhZWR6dHo3eGE4amluMWRncWR0emd3ODAyajlndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp" alt="Alt Text">
+</div>
